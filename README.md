@@ -26,7 +26,7 @@ Supongamos que tenemos un archivo de texto ejemplo.txt con el siguiente contenid
 
 Este es un ejemplo de texto sin formato que será formateado por el script.
 
-Al ejecutas el script el4203.py e ingresas la ruta del archivo ejemplo.txt y 20 como el ancho máximo, el archivo se actualizará para que el texto esté formateado correctamente en líneas de hasta 20 caracteres de ancho.
+Al ejecutas el script el4203_c2.py e ingresas la ruta del archivo ejemplo.txt y 20 como el ancho máximo, el archivo se actualizará para que el texto esté formateado correctamente en líneas de hasta 20 caracteres de ancho.
 
 
 ## Autor:
