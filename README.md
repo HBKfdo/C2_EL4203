@@ -1,9 +1,9 @@
-#Función para Formatear Texto en Archivo de Python
+*Función para Formatear Texto en Archivo de Python
 
-##Descripción
+**Descripción
 Este repositorio contiene una implementación en Python de una función para formatear texto en un archivo de texto. La función lee un archivo de texto existente, aplica un formato de línea específico según un ancho máximo dado, y sobrescribe el contenido original del archivo con el texto formateado.
 
-##Funcionalidad
+**Funcionalidad
 La función principal main() realiza las siguientes acciones:
 
 1. Entrada de Usuario:
@@ -18,9 +18,9 @@ La función principal main() realiza las siguientes acciones:
 4. Actualización del Archivo:
    - Sobrescribe completamente el contenido del archivo original con el texto formateado utilizando la función update_text_file().
 
-##Restricciones
+**Restricciones
 El archivo no debe tener más de 1000 caracteres y el ancho máximo no debe superar 100, de lo contrario devuelve un mensaje indicando el error
 
-##Autor:
+**Autor:
 Fernando Soto Naranjo
 
